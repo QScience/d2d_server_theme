@@ -65,27 +65,27 @@ dd {
 	padding-left: 5px;
 }
 
-.d2d-server-voting-link {
-  background: url("../img/like_white.png") no-repeat scroll right 28px top transparent;
-  display: block;
-  height: 25px;
-  text-indent: -9999px;
-  width: auto;
-}
-
-.d2d-server-undovote-link{
-  background: url("../img/like_black.png") no-repeat scroll right 28px top transparent;
-  display: block;
-  height: 32px;
-  text-indent: -9999px;
-  width: auto;
-}
-
-.d2d-server-vote-forbid-sign{
-  background: url("../img/forbidden_vote.png") no-repeat scroll right 28px top transparent;
-  display: block;
-  height: 22px;
-  text-indent: -9999px;
-  width: auto;
-}
-
+//.d2d-server-voting-link {
+//  background: url("../img/like_white.png") no-repeat scroll right 28px top transparent;
+//  display: block;
+//  height: 25px;
+//  text-indent: -9999px;
+//  width: auto;
+//}
+//
+//.d2d-server-undovote-link{
+//  background: url("../img/like_black.png") no-repeat scroll right 28px top transparent;
+//  display: block;
+//  height: 32px;
+//  text-indent: -9999px;
+//  width: auto;
+//}
+//
+//.d2d-server-vote-forbid-sign{
+//  background: url("../img/forbidden_vote.png") no-repeat scroll right 28px top transparent;
+//  display: block;
+//  height: 22px;
+//  text-indent: -9999px;
+//  width: auto;
+//}
+//

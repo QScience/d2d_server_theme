@@ -55,5 +55,9 @@ jQuery(document).ready(function() {
 	jQuery("#d2d-server-search #edit-search").css("width", "");
 	jQuery("#d2d-server-search #edit-search").addClass("span7");
 
+	//jQuery(".d2d-server-list-table tr td:last").each(function () {
+		//jQuery(this).css("padding-left", "20px");
+		//console.log(jQuery(this).text());
+	//});
 
 });

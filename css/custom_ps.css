@@ -60,3 +60,7 @@ table {
 	    margin: 0 0 10px 25px;
 		    padding: 0;
 }
+
+dd {
+	padding-left: 5px;
+}

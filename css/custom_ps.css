@@ -65,7 +65,7 @@ dd {
 	padding-left: 5px;
 }
 
-.d2d-server-voting-link {
+.d2d-server-list-table-wrap .d2d-server-voting-link {
   background: url("../img/like_white.png") no-repeat scroll 50% 50% transparent;
   display: block;
   height: 25px;
@@ -73,7 +73,7 @@ dd {
   width: auto;
 }
 
-.d2d-server-undovote-link{
+.d2d-server-list-table-wrap .d2d-server-undovote-link{
   background: url("../img/like_black.png") no-repeat scroll 50% 50% transparent;
   display: block;
   height: 25px;
@@ -81,7 +81,7 @@ dd {
   width: auto;
 }
 
-.d2d-server-vote-forbid-sign{
+.d2d-server-list-table-wrap .d2d-server-vote-forbid-sign{
   background: url("../img/forbidden_vote.png") no-repeat scroll 50% 50% transparent;
   display: block;
   height: 22px;

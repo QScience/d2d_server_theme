@@ -89,3 +89,7 @@ dd {
   width: auto;
 }
 
+#d2d-server-search .form-item-selected {
+	margin-left:10px;
+	margin-right:10px;
+}
